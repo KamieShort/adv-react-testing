@@ -22,8 +22,8 @@ Use the [template](https://github.com/alchemycodelab/adv-react-alchemeetme-testi
 ### Acceptance Criteria
 
 - Tests ensure the header is displaying properly by testing for:
-  - header image
-  - profile name
+  x header image
+  x profile name
   - Background Color (stretch)
 - Tests ensure the Profile is displaying properly by testing for:
   - name
